@@ -1,0 +1,9 @@
+host = "localhost"
+port = 80
+password = "admin"
+username = "admin"
+buffer_size = 1024*50#50kb  size per chunk 
+get_index = "/page/index.html"
+get_404 = "/page/404.html"
+get_info = "/page/info.html"
+get_files = "/page/files.html"
