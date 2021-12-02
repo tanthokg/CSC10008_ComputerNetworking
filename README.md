@@ -8,6 +8,7 @@ Build a simple web server with core features:
 - Display team member pictures infomation
 - Download files from server (using chunk transfer encoding)
 - A 404 page
+
 Used languages: Python, HTML, CSS
 ## Packet Tracer
 Configurate virtual networks using Cisco Packet Tracer, including:
